@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import commands
 
 def hosts():
